@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assessment_Practical</string>
+    <string name="remaining_cards">Remaining cards :</string>
+    <string name="error_1">Must draw at least 1</string>
+    <string name="Error_2">You Chose too many cards, you  have</string>
+    <string name="In_deck">In the Deck</string>
+    <string name="draw">draw</string>
+    <string name="how_many_cards">How many cards?</string>
+    <string name="shuffle">Shuffle</string>
+</resources>
